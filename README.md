@@ -27,18 +27,18 @@ Language: SQL
 3. Run analysis_queries.sql.
 
 ## 📈 Business Problems & Solutions:-
-### Business Problem: Product Demand. 
-### Solution: Identified high-selling products to optimize stock levels and reduce inventory costs. 
-### Business Problem: Order Cancellations.  
-### Solution: Analyzed frequent cancellation patterns to improve quality control and customer retention.  
-### Business Problem: Peak Sales Time. 
-### Solution: Extracted time-of-day trends to optimize staffing, promotions, and server loads.
-### Business Problem: Customer Value. 
-### Solution: Identified high-spending customers for loyalty programs and personalized marketing. 
-### Business Problem: Gender-based Preferences. 
-### Solution: Uncovered gender-specific product preferences for targeted ad campaigns. 
+ Business Problem: Product Demand. 
+ Solution: Identified high-selling products to optimize stock levels and reduce inventory costs. 
+ Business Problem: Order Cancellations.  
+ Solution: Analyzed frequent cancellation patterns to improve quality control and customer retention.  
+ Business Problem: Peak Sales Time. 
+ Solution: Extracted time-of-day trends to optimize staffing, promotions, and server loads.
+ Business Problem: Customer Value. 
+ Solution: Identified high-spending customers for loyalty programs and personalized marketing. 
+ Business Problem: Gender-based Preferences. 
+ Solution: Uncovered gender-specific product preferences for targeted ad campaigns. 
 
-##📈 Some Business Insights 
+## 📈 Some Business Insights 
 1. Inventory & Supply Chain Optimization
 
 ### Insight: By identifying the "top 5 most selling products by quantity," the business can optimize its stock levels.
@@ -47,18 +47,18 @@ Language: SQL
 
 2. Quality Control & Customer Retention
 
-###Insight: By pinpointing "products that are most frequently cancelled," you provide data on potential quality issues or customer dissatisfaction.
+### Insight: By pinpointing "products that are most frequently cancelled," you provide data on potential quality issues or customer dissatisfaction.
 
-###Business Impact: Addressing these specific product pain points directly improves customer trust and reduces revenue loss from returned or cancelled orders.
+### Business Impact: Addressing these specific product pain points directly improves customer trust and reduces revenue loss from returned or cancelled orders.
 
 3. Operational Efficiency & Staffing
 
-###Insight: By segmenting purchase times into buckets like 'Morning', 'Afternoon', and 'Evening', you have identified peak traffic times.
+### Insight: By segmenting purchase times into buckets like 'Morning', 'Afternoon', and 'Evening', you have identified peak traffic times.
 
-###Business Impact: The business can now optimize store staffing schedules and server bandwidth during high-traffic hours to ensure smooth operations.
+### Business Impact: The business can now optimize store staffing schedules and server bandwidth during high-traffic hours to ensure smooth operations.
 
 4. Targeted Marketing Strategy
 
-###Insight: Your analysis of gender-based preferences for specific categories (e.g., Accessories, Furniture, Books) provides a clear demographic breakdown.
+### Insight: Your analysis of gender-based preferences for specific categories (e.g., Accessories, Furniture, Books) provides a clear demographic breakdown.
 
-###Business Impact: This allows the marketing team to design personalized ad campaigns, which are significantly more effective at converting customers than generic, one-size-fits-all advertisements.
+### Business Impact: This allows the marketing team to design personalized ad campaigns, which are significantly more effective at converting customers than generic, one-size-fits-all advertisements.
